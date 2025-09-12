@@ -1,0 +1,31 @@
+{
+  "name": "front-and-back",
+  "version": "1.0.0",
+  "description": "a course under which we learn backend",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "dev": "nodemon src/index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Krishnakant5911/chai-backend.git"
+  },
+  "keywords": [
+    "chai",
+    "aur",
+    "code"
+  ],
+  "author": "hitesh sir",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Krishnakant5911/chai-backend/issues"
+  },
+  "homepage": "https://github.com/Krishnakant5911/chai-backend#readme",
+  "devDependencies": {
+    "nodemon": "^3.1.10"
+  },
+  "dependencies": {
+    "prettier": "^3.6.2"
+  }
+}
