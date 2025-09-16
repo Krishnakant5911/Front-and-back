@@ -1,0 +1,23 @@
+{
+  "name": "front-and-back",
+  "version": "1.0.0",
+  "description": " a backend learning course",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Krishnakant5911/chai-backend.git"
+  },
+  "keywords": [
+    "coffee",
+    "overflow"
+  ],
+  "author": "krishnakant chaudhary",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Krishnakant5911/chai-backend/issues"
+  },
+  "homepage": "https://github.com/Krishnakant5911/chai-backend#readme"
+}
